@@ -1,37 +1,3 @@
-# import matplotlib.pyplot as plt
-# from tensorflow import keras
-
-
-
-# data=keras.datasets.mnist
-# (train_images, train_labels), (test_images, test_labels) = data.load_data(path="mnist.npz")
-
-
-# # Normalize pixel values to be between 0 and 1
-# train_images, test_images = train_images / 255.0, test_images / 255.0
-
-
-# # Load the saved model
-# loaded_model = keras.models.load_model("mnist_model.h5")
-
-# # Evaluate the model on the test set
-# test_loss, test_accuracy = loaded_model.evaluate(test_images, test_labels)
-# print(f"\nTest Accuracy: {test_accuracy}")
-
-# # Make predictions on a few test images
-# predictions = loaded_model.predict(test_images[:5])
-
-# # Display the test images along with the model's predictions
-# for i in range(5):
-#     plt.imshow(test_images[i], cmap='gray')
-#     plt.title(f"True Label: {test_labels[i]}, Predicted Label: {predictions[i].argmax()}")
-#     plt.show()
-
-
-
-
-
-
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow import keras
 import matplotlib.pyplot as plt
