@@ -1,0 +1,4 @@
+tensorflow
+matplotlib
+cv2
+scipy
