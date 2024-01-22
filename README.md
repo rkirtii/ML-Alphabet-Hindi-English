@@ -30,7 +30,7 @@ pip3 install -r requirements.txt
 (Optional) To train the model.
 
 ```bash
-python3 training_model.py
+python3 Training_model.py
 
 ```
 For Output
@@ -43,7 +43,7 @@ python3 check.py
 
 ## Use
 
-ALPR uses image processing and recognition technology. It employs Convulational Neural Network (CNN) model for better predictablity of the numbers and digits.
+Used to detect the alphabets in Devanagri and English scripts.
 
 Libraries used:
 
@@ -60,5 +60,10 @@ Training data
 
 
 Final output
+![Screenshot from 2024-01-22 18-00-27](https://github.com/rkirtii/ML-Alphabet-Hindi-English/assets/142138548/6a75313b-6b87-43a5-a9bc-574ed0460f23)
+![Screenshot from 2024-01-22 18-00-22](https://github.com/rkirtii/ML-Alphabet-Hindi-English/assets/142138548/05457540-7636-425c-a6aa-29de607ea530)
+![Screenshot from 2024-01-22 18-00-19](https://github.com/rkirtii/ML-Alphabet-Hindi-English/assets/142138548/1108bee4-e432-4297-8fe6-c041648bb1a1)
+![Screenshot from 2024-01-22 17-59-59](https://github.com/rkirtii/ML-Alphabet-Hindi-English/assets/142138548/59b2a54c-2651-4222-bda8-d01da1f11419)
+
 
 [Screencast from 2024-01-22 17-54-21.webm](https://github.com/rkirtii/ML-Alphabet-Hindi-English/assets/142138548/b73853bf-ea6d-47d7-ba0e-a3145d32e027)
