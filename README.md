@@ -60,6 +60,8 @@ Training data
 
 
 Final output
+
+
 ![Screenshot from 2024-01-22 18-00-27](https://github.com/rkirtii/ML-Alphabet-Hindi-English/assets/142138548/6a75313b-6b87-43a5-a9bc-574ed0460f23)
 ![Screenshot from 2024-01-22 18-00-22](https://github.com/rkirtii/ML-Alphabet-Hindi-English/assets/142138548/05457540-7636-425c-a6aa-29de607ea530)
 ![Screenshot from 2024-01-22 18-00-19](https://github.com/rkirtii/ML-Alphabet-Hindi-English/assets/142138548/1108bee4-e432-4297-8fe6-c041648bb1a1)
